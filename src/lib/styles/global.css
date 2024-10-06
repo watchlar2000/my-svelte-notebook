@@ -1,0 +1,13 @@
+@import './reset.css';
+
+body {
+	background-color: hsl(39, 100%, 90%);
+	font-size: 1.5rem;
+	line-height: 1.5;
+}
+
+/* .container {
+	padding-block-start: 2.5rem;
+	max-width: 75ch;
+	margin-inline: auto;
+} */
